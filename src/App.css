@@ -1,0 +1,17 @@
+p {
+    font-size: 17px;
+    color: #fff;
+    line-height: 25px;
+    margin-bottom: 40px;
+    
+}
+
+dd {
+    margin-left: -3px;
+    font-size: 18px;
+    color: #fff;  
+}
+
+dl dd {
+    margin-bottom: 15px;
+}
